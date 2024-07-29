@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Hello, my name is Tatiany Sodre and I am a specialist in engineering and production management.<br><br>I currently work with:<br>- Front-End Development at @Freelance<br>- Digital marketing at @TyseMkT<br>- Data analyst at @Freelance</p>
+<p align="left">Hello, my name is Tatiany Sodre and I am a specialist in engineering and production management.<br><br>I currently work with:<br>- Digital marketing at @TyseMkT🚀 <br>- Front-End Development at @Freelance👩🏻‍💻 <br>- Data analyst at @Freelance👩🏻‍💻📊</p>
 
 
 ###
