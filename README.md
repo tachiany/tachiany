@@ -7,7 +7,7 @@
 [![Pinteres](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/TyseMkt/)
 
 ![Tachiany GitHub stats](https://github-readme-stats.vercel.app/api?username=tachiany&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tachiany&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tachiany&size_weight=0.5&count_weight=0.5&theme=radical)
 
 ## Techonologias que uso no meu repositório privado
 
