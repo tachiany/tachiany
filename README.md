@@ -1,7 +1,9 @@
 <div align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#DA70D6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&duration=3000&pause=1000&color=EE82EE&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Tatiany+Sodre;I'm+Front+End+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+sou+tatiany+Sodre;Sou+Front+End+Developer)](https://git.io/typing-svg)
+<br>
 
 </div>
 
@@ -12,10 +14,10 @@
 
 <h2 align="left">Social Media</h2>
 
-[![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiany-sodre-458891150)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/C5yEWABu9C0/)
-[![Pinteres](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/pin/882635226964139184/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=uTxpnczK-Zo&t=8s)
+[![Linkedlin](https://img.shields.io/badge/LinkedIn-EE82EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiany-sodre-458891150)
+[![Instagran](https://img.shields.io/badge/Instagram-EE82EE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/C5yEWABu9C0/)
+[![Pinteres](https://img.shields.io/badge/Pinterest-EE82EE.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/pin/882635226964139184/)
+[![YouTube](https://img.shields.io/badge/YouTube-EE82EE?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=uTxpnczK-Zo&t=8s)
 
 
 
@@ -28,12 +30,12 @@
 <h2 align="left">Techs</h2>
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="Python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="C++"src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></div><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-EE82EE?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="html" src="https://img.shields.io/badge/HTML-EE82EE?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-EE82EE?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-EE82EE?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img align="center" alt="Python"src="https://img.shields.io/badge/Python-EE82EE?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="C++"src="https://img.shields.io/badge/C%2B%2B-EE82EE?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></div><br/>
 
 <h2 align="left">Snake</h2>
 <picture align="center">
@@ -42,5 +44,5 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tachiany/tachiany/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer"/>
 
