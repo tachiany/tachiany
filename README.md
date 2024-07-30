@@ -1,12 +1,7 @@
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">Hello, my name is Tatiany Sodre and I am a specialist in engineering and production management.<br><br>I currently work with:<br>- Digital marketing at @TyseMkT🚀 <br>- Front-End Development at @Freelance👩🏻‍💻 <br>- Data analyst at @Freelance👩🏻‍💻📊</p>
-
-
-###
 
 <h2 align="left">Social Media</h2>
 
@@ -21,9 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tachiany&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tachiany&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-
-
 <h2 align="left">Techs</h2>
 
 <div style="display: inline_block"><br/>
@@ -35,7 +27,6 @@
 <img align="center" alt="C++"src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></div><br/>
 
 <h2 align="left">Snake</h2>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tachiany/tachiany/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tachiany/tachiany/output/github-contribution-grid-snake-dark.svg">
