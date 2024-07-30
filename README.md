@@ -36,13 +36,5 @@
 
 <h2 align="left">Snake</h2>
 
-<img src="https://raw.githubusercontent.com/tachiany/tachiany/output/snake.svg" alt="Snake animation"/>
-![snake gif](https://github.com/tachiany/tachiany/blob/output/github-contribution-grid-snake.svg)
-###
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tachiany/tachiany/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tachiany/tachiany/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tachiany/tachiany/output/github-contribution-grid-snake.svg">
-</picture>
 
 
