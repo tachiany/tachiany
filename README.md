@@ -1,4 +1,11 @@
+<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#DA70D6&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+sou+tatiany+Sodre;Sou+Front+End+Developer)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 <h2 align="left">About me</h2>
 
 <p align="left">Hello, my name is Tatiany Sodre and I am a specialist in engineering and production management.<br><br>I currently work with:<br>- Digital marketing at @TyseMkT🚀 <br>- Front-End Development at @Freelance👩🏻‍💻 <br>- Data analyst at @Freelance👩🏻‍💻📊</p>
