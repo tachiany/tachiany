@@ -36,8 +36,8 @@
 
 <h2 align="left">Snake</h2>
 
-<img src="https://raw.githubusercontent.com/tachiany/tachiany/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/tachiany/tachiany/output/snake.svg" alt="Snake animation"/>
+![snake gif](https://github.com/tachiany/tachiany/blob/output/github-contribution-grid-snake.svg)
 ###
 
 
