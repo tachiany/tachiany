@@ -10,7 +10,7 @@
 <div align="center">
 <h2 align="left">About me</h2>
 
-<p align="left">Hello, my name is Tatiany Sodre and I am a specialist in engineering and production management. studying Systems Development at Dev Club, which allows me to combine theoretical and practical knowledge to enhance my skills as a developer. I have a great passion for programming and its creative power, and I am always seeking personal and professional development. <br><br>I currently work with:<br>- Digital marketing at @TyseMkT🚀 <br>- Systems developer at @LugiTech 👩🏻‍💻 <br>- Data analyst at @Freelance👩🏻‍💻📊</p>
+<p align="left">Hello, my name is Tatiany Sodre and I am a specialist in engineering and production management. studying Systems Development at Dev Club, which allows me to combine theoretical and practical knowledge to enhance my skills as a developer. I have a great passion for programming and its creative power, and I am always seeking personal and professional development. <br><br>I currently work with: <br>- Systems developer at @LugiTech👩🏻‍💻 <br>- Digital marketing at @TyseMkT🚀 <br>- Data analyst at @Freelance👩🏻‍💻📊</p>
 
 <h2 align="left">Social Media</h2>
 
